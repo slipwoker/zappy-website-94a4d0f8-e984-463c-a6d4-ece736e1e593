@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+LA Burger מגישה המבורגרים פרימיום בסגנון אמריקאי עם בשר עסיסי על הגריל, לחמניות טריות וטעמים אותנטיים. בואו לחוות את ה-Smash Burger האגדי!
+
+### תפריט
+https://example.com/menu
+גלו את תפריט LA Burger המלא: Smash Burger for the Righteous, Burger on Steroids ועוד מנות פרימיום בסגנון BBQ אמריקאי אותנטי עם טוויסט ישראלי.
+
+### אודות
+https://example.com/about
+LA Burger היא יותר מסתם מסעדה - זו חוויה קולינרית אמריקאית עם גישה נועזת ללא פשרות. איכות פרימיום, אווירה מתוחכמת, וטעמים שלא תשכחו.
+
+### צור קשר
+https://example.com/contact
+רוצים לשריין שולחן במסעדת LA Burger? יש לכם שאלות על התפריט? צרו קשר עכשיו ונדאג שתקבלו את חוויית ההמבורגר הפרימיום שמגיעה לכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
